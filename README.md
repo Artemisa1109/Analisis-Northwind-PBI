@@ -22,7 +22,8 @@ Construir un modelo de datos optimizado y un dashboard interactivo en Power BI q
 
 ## 📸 Vista previa del Dashboard
 
-![Vista previa del Dashboard](<img width="998" height="684" alt="Captura de pantalla 2025-08-01 171632" src="https://github.com/user-attachments/assets/5638d77c-d885-48f4-85ea-3b850d109c20" />)
+![Vista previa del Dashboard]<img width="998" height="684" alt="Captura de pantalla 2025-08-01 171632" src="https://github.com/user-attachments/assets/7cd7ddf6-f999-47b6-b33c-661e2b15d115" />
+
 
 ---
 
